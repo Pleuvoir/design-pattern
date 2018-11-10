@@ -13,6 +13,8 @@
 
 #### [工厂方法](https://github.com/pleuvoir/design-pattern/tree/master/src/main/java/io/github/pleuvoir/factory)
 
+#### [模版方法](https://github.com/pleuvoir/design-pattern/tree/master/src/main/java/io/github/pleuvoir/template)
+
 // TODO
 
 - 简单工厂
