@@ -21,7 +21,5 @@
 #### [工厂方法](https://github.com/pleuvoir/design-pattern/tree/master/src/main/java/io/github/pleuvoir/factory)
 
 - 简单工厂
-
-// TODO
-- 工厂方法
-- 抽象工厂
+- ~~工厂方法~~
+- ~~抽象工厂~~
