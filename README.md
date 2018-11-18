@@ -23,3 +23,5 @@
 - 简单工厂
 - ~~工厂方法~~
 - ~~抽象工厂~~
+
+#### [事件机制](https://github.com/pleuvoir/design-pattern/tree/master/src/main/java/io/github/pleuvoir/event)
