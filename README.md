@@ -25,3 +25,7 @@
 - ~~抽象工厂~~
 
 #### [事件机制](https://github.com/pleuvoir/design-pattern/tree/master/src/main/java/io/github/pleuvoir/event)
+
+#### [异步/同步 回调] (https://github.com/pleuvoir/design-pattern/tree/master/src/main/java/io/github/pleuvoir/callback)
+
+#### [管道/责任链模式] (https://github.com/pleuvoir/design-pattern/tree/master/src/main/java/io/github/pleuvoir/chains)
