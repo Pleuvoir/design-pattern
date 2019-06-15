@@ -28,7 +28,8 @@ public class Client {
 			}
 		});
 
-		
+		// 当有一个集合 里面包含着多态的父子类时  它们对同一个方法又有不同的实现 而又必须循环调用之类的 适合使用访问者模式
+		// 其它情况使用访问者模式过于麻烦
 		for (Content content : contentList) {
 			content.accept(concretVisitor);
 		}
