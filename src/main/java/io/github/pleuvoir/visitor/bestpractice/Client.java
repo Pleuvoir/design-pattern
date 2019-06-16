@@ -28,7 +28,9 @@ public class Client {
 			}
 		});
 
+		// https://github.com/oops-glory/wechat-test/blob/master/src/main/java/com/tianxin/wechat/platform/manager/impl/XmlMessageParser.java
 		// 当有一个集合 里面包含着多态的父子类时  它们对同一个方法又有不同的实现 而又必须循环调用之类的 适合使用访问者模式
+		// 或者有个方法每次返回的都是多态对象
 		// 其它情况使用访问者模式过于麻烦
 		for (Content content : contentList) {
 			content.accept(concretVisitor);
